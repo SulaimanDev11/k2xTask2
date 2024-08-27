@@ -1,0 +1,2 @@
+All widgets will be here that will be called from UI screen and 
+it will see the platform (ios will call cupertino and android will call material)

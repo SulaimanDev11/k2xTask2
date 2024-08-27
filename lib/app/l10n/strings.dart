@@ -1,0 +1,44 @@
+class AppStrings {
+  static const String appBarTitle = 'Employee Hour Tracking';
+  static const String userName = 'Muhammad Sulaiman';
+  static const String saveTitle = 'Save Data';
+  static const String addBreak = 'Add break';
+  static const String breakTime = 'Break Times';
+  static const String endDate = 'End Date';
+  static const String endTime = 'End Time';
+  static const String checkInDate = 'Start Date';
+  static const String checkOutDate = 'Start Time';
+  static const String name = 'name';
+  static const String nameError = 'Please enter your name';
+  static const String menuButtonLabel = 'A menu button';
+  static const String companyName = 'Company name';
+  static const String companyAddress =
+      'Mustervej 123, 1234 København, Danmark.';
+  static const String totalHours = '2h, 23m';
+  static const String totalHrsLabel = 'Today Total Hours';
+  static const String lastCheckOut = 'Break since last clockout ';
+  static const String addEntry = 'Add Entry';
+  static const String setSchedule = 'Set Schedule';
+  static const String takeBreak = 'Take Break';
+  static const String endBreak = 'End Break';
+  static const String clockout = 'Clock Out';
+  static const String save = 'Save';
+  static const String cancel = 'Cancel';
+  static const String saveAsPdf = 'Save as PDF';
+  static const String clockIn = 'Clock in';
+  static const String dayTotal = 'Day Total';
+  static const String breakTotal = 'Break Total';
+  static const String breakInProgress = 'Break In Progress ';
+  static const String startingTime = 'Starting time ';
+  static const String todayTotalTime = 'Today Total Time ';
+  static const String reportTo = 'Report To';
+  static const String breaks = 'Breaks';
+  static const String start = 'Start';
+  static const String end = 'End';
+  static const String breakStart = 'Break Start';
+  static const String breakEnd = 'Break End';
+  static const String savingData = 'Saving data';
+  static const String zeroTime = 'Data can not be save if total time is 0';
+  static const String dataCreated = 'Data Created Successfuly';
+  static const String failedCreate = 'Failed to save data';
+}
